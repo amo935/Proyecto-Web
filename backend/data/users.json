@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "main123@gmail.com",
+    "username": "holamundo",
+    "passwordHash": "$2b$10$5YU9F8wWBO8p/qjGVzQOp.X.xfDlcWRFPS289/vmLFkyuOSetTtCa",
+    "createdAt": "2026-05-29T08:23:16.307Z"
+  },
+  {
+    "id": 2,
+    "email": "test@example.com",
+    "username": "testuser",
+    "passwordHash": "$2a$10$vo0gOMFGv/.SS8GwB18X6udZbXViT0yiAE1x56PDkkX4Sm3drZx72",
+    "createdAt": "2026-05-29T17:13:00.173Z"
+  }
+]
